@@ -6,7 +6,7 @@
     width: 30px;
     height: 30px;
 }
-#text{
+h1{
     font-family: 'Source Sans Pro', sans-serif;
     color: white;
     font-weight: bold;
@@ -16,4 +16,8 @@
 }
 body{
     background-image: url("background.png");
+}
+label{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
 }
